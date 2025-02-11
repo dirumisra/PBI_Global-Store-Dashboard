@@ -1,10 +1,10 @@
 # 📊 Power BI Global Store Dashboard
 
-##🌍 Project Overview
+# 🌍 Project Overview
 
 This Power BI Global Store Dashboard provides a detailed analysis of global sales, profit, discount trends, shipping costs, and customer insights across multiple regions. The dashboard helps businesses track performance, optimize strategies, and enhance decision-making using interactive data visualizations.
 
-#🚀 Key Features
+🚀 Key Features
 
 ✔ Total Sales Analysis: Displays total sales revenue ($12.64M) with dynamic filtering.
 ✔ Profit & Discount Breakdown: Highlights total profit ($1.47M) and total discount ($7.33K).
