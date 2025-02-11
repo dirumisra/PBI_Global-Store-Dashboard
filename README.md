@@ -45,6 +45,6 @@ This Power BI Global Store Dashboard provides a detailed analysis of global sale
 
 # 📩 Get in Touch
 
-📧 If you have any questions or suggestions, feel free to connect with me on [Connect with me on LinkedIn](https://www.linkedin.com/in/dirumisra/) or contribute to this project on GitHub!
+📧 If you have any questions or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dirumisra/) or contribute to this project on GitHub!
 
 🔹 Author: Dhiraj Mishra🔹 GitHub Repository: Global Store Dashboard🔹 Last Updated: February 2025
